@@ -1,0 +1,57 @@
+{
+  "id": "maldicao-da-rosa",
+  "title": "Maldição da Rosa",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Modulo da Aventura Maldição da Rosa",
+  "packs": [
+    {
+      "name": "aventura",
+      "label": "Aventura",
+      "path": "packs/aventura",
+      "type": "Adventure",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "atores",
+      "label": "Atores",
+      "path": "packs/atores",
+      "type": "Actor",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maps",
+      "label": "Maps",
+      "path": "packs/maps",
+      "type": "Scene",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "info",
+      "label": "info",
+      "path": "packs/info",
+      "type": "JournalEntry",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/ditovermelho/rosa.git"
+}
