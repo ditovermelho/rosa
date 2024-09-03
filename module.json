@@ -53,5 +53,14 @@
       }
     }
   ],
-  "url": "https://github.com/ditovermelho/rosa/blob/main/module.json"
+  "url": "https://github.com/ditovermelho/rosa",
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
