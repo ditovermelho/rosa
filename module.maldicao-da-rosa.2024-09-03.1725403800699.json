@@ -1,0 +1,25 @@
+{
+  "id": "module.maldicao-da-rosa.2024-09-03.1725403800699",
+  "title": "Maldição da Rosa",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Modulo da Aventura Maldição da Rosa",
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 229136,
+  "note": "maldicao_rosa",
+  "snapshotId": null,
+  "originalSize": 429133,
+  "createdAt": 1725403800708,
+  "packageId": "maldicao-da-rosa",
+  "type": "module",
+  "system": null
+}
